@@ -1,10 +1,10 @@
 {
   "produto": [
     {
-    "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsLcuJuyFajKtNrX32bPF_nlhMOg2o9AnmL7ggLhvXIOIBoEEFocVw3vm3&s=10",
-    "nome": "Vvffhj",
-    "preco": "R$ 66,55",
-    "id": 7
+    "imagem": "https://cdn.pixabay.com/photo/2016/07/30/21/37/mario-1558062_1280.jpg",
+    "nome": "Boneco Mario",
+    "preco": "R$ 70,00",
+    "id": 8
     }
   ]
 }
