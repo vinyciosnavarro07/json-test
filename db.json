@@ -5,6 +5,24 @@
     "nome": "Boneco Mario",
     "preco": "R$ 70,00",
     "id": 8
-    }
-  ]
+    },
+    {
+    "imagem": "https://cdn.pixabay.com/photo/2014/03/08/12/29/xbox-283116_1280.jpg",
+    "nome": "Controle Xbox original",
+    "preco": "R$ 100,00",
+    "id": 9
+    },
+    {
+    "imagem": "https://cdn.pixabay.com/photo/2022/01/12/12/30/nintendo-6932787_1280.jpg",
+    "nome": "Game Boy",
+    "preco": "R$ 300,00",
+    "id": 9
+   },
+    {
+    "imagem": "https://cdn.pixabay.com/photo/2015/09/09/21/16/hat-933427_1280.jpg",
+    "nome": "Boné Sonicl",
+    "preco": "R$ 40,00",
+    "id": 9
+  }
+   ]
 }
